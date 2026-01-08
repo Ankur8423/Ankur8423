@@ -10,11 +10,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://i.pinimg.com/originals/a9/ef/05/a9ef0582127f7086bb5153a86b131a26.gif"/>
-
 - 🎓 B.Tech CSE @ IIIT Guwahati (2022–2026)
 - 💻 Backend Developer focused on **scalable APIs**
-- 🔐 Strong interest in **API security & clean architecture**
+- 🔐 Interested in **API security & clean architecture**
 - ⚙️ Experience with **Docker & GitHub Actions**
 - 🛠️ Worked on **real-time IoT backend systems**
 
