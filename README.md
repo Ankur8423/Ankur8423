@@ -1,84 +1,92 @@
-# Hi 👋, I'm Ankur Jaipuria
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Ankur%20Jaipuria&fontAlign=50" width="100%" />
+</p>
 
-🎓 B.Tech CSE @ IIIT Guwahati (2022–2026)  
-💻 Backend Developer | API Development | IoT Systems  
-⚙️ FastAPI • Python • PostgreSQL • Docker • CI/CD  
-
----
-
-## 🧠 About Me
-I am a Computer Science undergraduate with hands-on experience in building **secure, scalable backend systems** and **real-time IoT-based monitoring solutions**. I focus on clean architecture, API security, database design, and reliable deployments.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ankur+Jaipuria+👋;Backend+Developer+%7C+API+Development;FastAPI+%7C+Python+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+System+Design" />
+</div>
 
 ---
 
-## 🛠 Technical Skills
+## 👨‍💻 About Me
 
-**Programming Languages**  
-- Python, Java  
+<img align="right" width="380" src="https://i.pinimg.com/originals/a9/ef/05/a9ef0582127f7086bb5153a86b131a26.gif"/>
 
-**Backend & APIs**  
-- FastAPI, RESTful APIs  
-- SQLAlchemy, Pydantic  
+- 🎓 B.Tech CSE @ IIIT Guwahati (2022–2026)
+- 💻 Backend Developer focused on **scalable APIs**
+- 🔐 Strong interest in **API security & clean architecture**
+- ⚙️ Experience with **Docker & GitHub Actions**
+- 🛠️ Worked on **real-time IoT backend systems**
 
-**Databases**  
-- PostgreSQL, MySQL, MongoDB  
+📫 **Email:** ankur.jaipuria21b@iiitg.ac.in  
 
-**DevOps & Deployment**  
-- Docker, GitHub Actions (CI/CD)  
-- AWS (Basics), Linux (WSL)  
+---
 
-**Security**  
-- JWT Authentication  
-- OAuth2.0  
-- Password hashing (bcrypt)  
+## 🛠️ Technical Skills
 
-**Tools & Platforms**  
-- Git, GitHub, VS Code  
-- Arduino IDE, ESP32  
+### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-**Hardware & Sensors**  
-- MQ-136, MQ-137, DHT11  
+### 🔹 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 🔹 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
+### 🔹 Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Smart Washroom Odour Detection System
-- Designed and deployed a **real-time odour monitoring system** using ESP32 and gas/environment sensors.
-- Built a **high-performance FastAPI backend** for sensor data ingestion and processing.
-- Implemented **PostgreSQL** for structured and time-based data storage.
-- Added **sustained-threshold alerting** with SMS/Email notifications for unsafe gas levels.
-- Focused on reliability, backend performance, and data accuracy.
+- Real-time sensor data ingestion using **FastAPI**
+- PostgreSQL-based structured storage
+- SMS / Email alerts with sustained-threshold logic
 
-**Tech:** FastAPI, Python, PostgreSQL, ESP32, MQ-136/137, DHT11  
+### 🔹 Blog Backend API
+- JWT authentication & role-based access
+- Modular FastAPI architecture using SQLAlchemy
+- Secure password hashing with bcrypt
 
----
-
-### 🔹 Blog Backend API (FastAPI)
-- Developed a **secure REST API** for a blogging platform.
-- Implemented **JWT-based authentication**, role-based access control, and password hashing using bcrypt.
-- Designed a **modular router–repository–database architecture** using SQLAlchemy ORM.
-- Used **Pydantic** for request validation and implemented OAuth2 token flow.
-
-**Tech:** FastAPI, Python, SQLAlchemy, JWT, OAuth2, PostgreSQL  
+### 🔹 FastAPI Todo App (CI/CD)
+- Dockerized backend application
+- GitHub Actions pipeline for build & testing
+- PostgreSQL-backed CRUD APIs
 
 ---
 
-### 🔹 FastAPI Todo App with CI/CD
-- Built a **task management backend application** with full CRUD APIs.
-- Containerized the backend using **Docker** for consistent deployments.
-- Integrated **GitHub Actions** for automated build and testing pipelines.
-- Working on deployment orchestration using **Docker Compose** and GitHub Secrets.
-
-**Tech:** FastAPI, Docker, GitHub Actions, PostgreSQL  
-
----
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankur8423&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankur8423&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur8423&layout=compact&theme=github_dark&hide=html,css" height="150"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur8423&layout=compact&theme=github_dark&hide=html,css)
+---
 
+## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ankur-jaipuria/
-- 💻 GitHub: https://github.com/Ankur8423
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Ankur8423)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:ankur.jaipuria21b@iiitg.ac.in)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" />
+</p>
