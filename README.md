@@ -16,8 +16,6 @@
 - ⚙️ Experience with **Docker & GitHub Actions**
 - 🛠️ Worked on **real-time IoT backend systems**
 
-📫 **Email:** ankur.jaipuria21b@iiitg.ac.in  
-
 ---
 
 ## 🛠️ Technical Skills
@@ -69,7 +67,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Ankur8423)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:ankur.jaipuria21b@iiitg.ac.in)
 
 </div>
 
