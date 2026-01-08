@@ -1,77 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Ankur%20Jaipuria&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Ankur%20Jaipuria&fontAlign=50&fontSize=42" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ankur+Jaipuria+👋;Backend+Developer+%7C+API+Development;FastAPI+%7C+Python+%7C+PostgreSQL;Docker+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ankur+Jaipuria+👋;Backend+Developer+%7C+API+Development;FastAPI+%7C+Python+%7C+Databases+%7C+Docker" />
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE @ IIIT Guwahati
-- 💻 Backend Developer focused on **scalable APIs**
-- 🔐 Interested in **API security & clean architecture**
-- ⚙️ Experience with **Docker & GitHub Actions**
-- 🛠️ Worked on **real-time IoT backend systems**
+<p align="left">
+🎓 <b>B.Tech CSE @ IIIT Guwahati</b><br/>
+💻 Backend Developer focused on <b>scalable APIs</b><br/>
+🛠️ Worked on <b>real-time IoT backend systems</b>
+</p>
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔹 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,mysql,mongodb,docker,linux&perline=8" />
+</p>
 
-### 🔹 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logo=auth0&logoColor=white"/>
+</p>
 
-### 🔹 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### 🔹 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-
-### 🔹 Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Smart Washroom Odour Detection System
-- Real-time sensor data ingestion using **FastAPI**
-- PostgreSQL-based structured storage
-- SMS / Email alerts with sustained-threshold logic
-
-### 🔹 Blog Backend API
-- JWT authentication & role-based access
-- Modular FastAPI architecture using SQLAlchemy
-- Secure password hashing with bcrypt
-
-### 🔹 FastAPI Todo App (CI/CD)
-- Dockerized backend application
-- Implementing GitHub Actions pipeline for build & testing
-- PostgreSQL-backed CRUD APIs
-
----
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Ankur8423)
-
-</div>
+<p align="left">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
