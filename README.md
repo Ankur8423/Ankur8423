@@ -75,8 +75,6 @@ I am a Computer Science undergraduate with hands-on experience in building **sec
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankur8423&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur8423&layout=compact&theme=github_dark&hide=html,css)
