@@ -23,14 +23,44 @@
 ## 🛠️ Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,mysql,mongodb,docker,linux&perline=8" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  </a>
+  <a href="https://oauth.net/2/" target="_blank">
+    <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logo=auth0&logoColor=white"/>
+  </a>
 </p>
+
 
 
 ## 🔗 Connect With Me
