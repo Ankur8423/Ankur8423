@@ -73,9 +73,5 @@ I am a Computer Science undergraduate with hands-on experience in building **sec
 **Tech:** FastAPI, Docker, GitHub Actions, PostgreSQL  
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-- 💼 LinkedIn: (add your link)
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/ankur-jaipuria/)
+- 💻 GitHub: https://github.com/Ankur8423
