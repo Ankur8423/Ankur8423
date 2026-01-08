@@ -36,7 +36,6 @@
 
 ### 🔹 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 
 ### 🔹 Security
@@ -59,7 +58,7 @@
 
 ### 🔹 FastAPI Todo App (CI/CD)
 - Dockerized backend application
-- GitHub Actions pipeline for build & testing
+- Implementing GitHub Actions pipeline for build & testing
 - PostgreSQL-backed CRUD APIs
 
 ---
