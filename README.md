@@ -3,14 +3,14 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ankur+Jaipuria+👋;Backend+Developer+%7C+API+Development;FastAPI+%7C+Python+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ankur+Jaipuria+👋;Backend+Developer+%7C+API+Development;FastAPI+%7C+Python+%7C+PostgreSQL;Docker+%7C+CI%2FCD" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE @ IIIT Guwahati (2022–2026)
+- 🎓 B.Tech CSE @ IIIT Guwahati
 - 💻 Backend Developer focused on **scalable APIs**
 - 🔐 Interested in **API security & clean architecture**
 - ⚙️ Experience with **Docker & GitHub Actions**
@@ -61,15 +61,6 @@
 - Dockerized backend application
 - GitHub Actions pipeline for build & testing
 - PostgreSQL-backed CRUD APIs
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankur8423&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur8423&layout=compact&theme=github_dark&hide=html,css" height="150"/>
-</div>
 
 ---
 
